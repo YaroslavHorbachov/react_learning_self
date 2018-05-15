@@ -1,0 +1,30 @@
+{
+  "name": "react-snippet",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/icons": "^1.0.0-beta.43",
+    "material-ui": "^1.0.0-beta.47",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.3.2",
+    "redux-localstorage": "^0.4.1",
+    "redux-logger": "^3.0.6"
+  },
+  "scripts": {
+    "flow": "flow",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.72.0",
+    "prop-types": "^15.6.1"
+  }
+}

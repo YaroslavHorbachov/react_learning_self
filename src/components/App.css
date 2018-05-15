@@ -1,0 +1,36 @@
+
+.main {
+    font-family: 'Roboto', sans-serif
+}
+.flex-content{
+    display: flex;
+    flex-direction: row;
+    align-content:space-between; 
+    justify-content: space-around;
+    background-color: inherit;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.flex-home {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;  
+}
+.counter {
+    flex-direction: row;
+    height: 10vh
+}
+
+.actions{
+    height: 20vh
+}
+.reset {
+    height: 10vh
+}
+.login{
+    height: 10vh
+} 
