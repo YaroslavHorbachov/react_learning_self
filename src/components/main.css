@@ -13,8 +13,7 @@
     bottom: 0;
     width: 100%;
 }
-.flex-home {
-    
+.flex-home { 
     display: flex;
     flex-direction: column;
     align-items: center;
